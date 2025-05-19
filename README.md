@@ -31,6 +31,7 @@ This Python script evaluates the quality of generated text by comparing it with 
 
 📈 Bar chart visualizing the scores across prompts.
 
+![image](https://github.com/user-attachments/assets/ea84ba3f-4edd-4f6d-a316-7a87f80cd5b1)
 
 ⚙️ Customization:
 
